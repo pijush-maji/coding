@@ -1,4 +1,4 @@
-package striver.monotonicStack;
+package striver.stackQueue.monotonicStack;
 
 public class TrappingRainWater {
 //It's similar to monotonic stack but stack is not required at all

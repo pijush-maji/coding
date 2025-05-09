@@ -1,4 +1,4 @@
-package striver.monotonicStack;
+package striver.stackQueue.monotonicStack;
 
 import java.util.Stack;
 
