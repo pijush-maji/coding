@@ -15,6 +15,8 @@ public class JobSchedulingWithDeadline {
         int id;
         int deadline;
         int profit;
+
+
     }
 
     public List<Integer> findProfit(int id[], int deadline[], int profit[]){
